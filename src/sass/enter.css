@@ -1,0 +1,145 @@
+*{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+a{
+    text-decoration: none;
+}
+i{
+    font-style:normal;
+}
+h1,h2,h3,h4{font-weight:normal;}
+
+
+.top1{
+    width: 1130px;
+    height: 98px;
+    margin-left: 0;
+    margin-right: 0;
+    margin: auto;
+}
+.master{
+    width: 100%;
+    height: 588px;
+    background-position: center;
+    padding-top: 27px;
+}
+.layout{
+    width: 410px;
+    height: 556px;
+    margin-left: 910px;
+    background-color: #fff;
+}
+.tabNav{
+    font-size: 24px;
+    padding-top: 27px;
+    padding-bottom: 24px;
+    text-align: center;
+}
+.tabNav span{
+    border: 1px solid #e0e0e0;
+    margin-left: 42px;
+    margin-right: 42px;
+}
+.tabNav a:nth-child(3){
+    color: #666;
+}
+.tabNav a:nth-child(1){
+    color: #ff6700;
+}
+input{
+    width: 346px;
+    height: 48px;
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+    padding: 13px 16px 13px 14px;
+    box-sizing: border-box;
+    color: rgb(117,117,117);
+    margin-bottom: 15px;
+}
+input:nth-child(3){
+    width: 346px;
+    height: 48px;
+    background-color: #ff6700;
+    border: none;
+    color: #fff;
+    margin-top: 30px;
+}
+.layout p{
+    width: 346px;
+    height: 48px;
+    margin-left: 0;
+    margin-right: 0;
+    margin: auto;
+}
+.layout p span:nth-child(1){
+    float: left;
+    color: salmon;
+}
+.layout p span:nth-child(2){
+    float: right;
+    color: slategrey;
+}
+.rest{
+    width: 348px;
+    height: 16px;
+    margin-left: 0;
+    margin-right: 0;
+    margin: auto;
+    text-align: center;
+    margin-top: 80px;
+}
+.rest span{
+    width: 110px;
+    border-top: 1px solid #e0e0e0;
+    display: inline-block;
+}
+.rest span:nth-child(1){
+    float: left;
+    margin-top: 8px;
+}
+.rest span:nth-child(3){
+    float: right;
+    margin-top: 8px;
+}
+.iconfff{
+    width: 348px;
+    height: 37px;
+    margin-left: 0;
+    margin-right: 0;
+    margin: auto;
+    text-align: center;
+    margin-top: 20px;
+}
+.iconfff svg{
+    font-size: 37px;
+    margin-left: 15px;
+    margin-right: 15px;
+}
+.language{
+    text-align: center;
+    margin: 10px;
+    margin-top: 100px;
+}
+.language span{
+    padding-left: 5px;
+    padding-right: 5px;
+    font-size: 14px;
+    color: rgb(70, 54, 29);
+}
+.pr{
+    text-align: center;
+    margin-bottom: 20px;
+}
+.imgggg img{
+    width: 350px;
+}
+
+
+
+
+
+
+
